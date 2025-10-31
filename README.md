@@ -23,12 +23,6 @@ Specializing in SaaS products, full-stack apps & high-performance web solutions.
 
 ---
 
-### 📚 Currently Learning
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
----
-
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh%20Bhati-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshbhati13)
